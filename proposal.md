@@ -20,6 +20,17 @@ Students Mental Health
 
 ### Data sources
 
+- We plan to use the Kaggle open data set [Students Mental Health
+  Assessments](https://www.kaggle.com/datasets/sonia22222/students-mental-health-assessments/data)
+  which provides results of an anonymous survey with over 7000 college
+  students’ reponses.
+
+- It records each student’s basic info (age, gender, department), CGPA,
+  mental health related scores (`Stress_Level`, `Depression_Score`,
+  `Depression_Score`), and other factors that may be associated with
+  their mental health (e.g. sleep quality, physical activity, family
+  history of mental health issues).
+
 ### Planned Analyses / visualizations / coding challenges
 
 Challenges:

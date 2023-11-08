@@ -1,5 +1,5 @@
 ---
-title: "Proposal"
+title: "Proposal of P8105 Final Project"
 date: "2023-11-07"
 output: github_document
 ---
@@ -15,9 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 * Ziqiu Liu (zl3386)
 * Ruoxi Li (rl3401)
 
-### Project title
+### Tentative Project title
 
-Students Mental Health
+Students Mental Health: Exploring Factors Associated with Students' Mental Well-being
 
 ### Motivation 
 
@@ -25,6 +25,9 @@ Students Mental Health
 
 ### Intended final products
 
+* A website with homepage for overview of our project, a page for exploratory analyses, a page for statistical analyses, a page for interactive dashboard by R-Shiny, and a page for project report.
+* A detailed project report.
+* A two-minute narrated screencast illustrating our project.
 
 ### Data sources
 
@@ -34,17 +37,27 @@ Students Mental Health
 
 ### Planned Analyses / visualizations / coding challenges
 
-Challenges:
+**Challenges:**
 
 * Addressing Missing Data:
 Within our extensive dataset, a substantial number of variables exhibit missing values.
 * Enhancing Variable Selection:
-As we strive to comprehensively examine aspects of stress level, depression score, anxiety score, and beyond, it is essential to broaden the spectrum of variables in our dataset
+As we strive to comprehensively examine aspects of stress level, depression score, anxiety score, and beyond, it is essential to broaden the spectrum of variables in our dataset.
 * Data Quality Issues:
 We need to ensure the quality of the data is crucial. Data may contain errors, outliers, or inconsistencies that can lead to biased or inaccurate results. 
-* Elevating Website Design:
-Our vision for the future involves the creation of a state-of-the-art website with advanced features and a visually appealing design.
+* Website Design:
+We plan to create a state-of-the-art website with advanced features and a visually appealing design.
+* R-Shiny Interactive Dashboard: 
+We plan to use R-Shiny to build an interactive platform.
 
-### Timeline
+### Planned timeline
+
+* 11.11 Proposal
+* 11.13~11.17 Project review meeting
+* 11.18~11.21 Finish exploratory analyses
+* 11.22~11.25 Finish statistical analyses
+* 11.26~11.30 Finish the Shiny dashboard and begin to write the report
+* 12.1~12.9 Finish the report and screencast
+
 
 

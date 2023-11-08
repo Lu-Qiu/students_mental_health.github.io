@@ -17,6 +17,13 @@ Mental Well-being
 
 ### Motivation
 
+Our project is propelled by an urgent need to unravel the complexities
+of student mental health—a critical factor that influences academic
+performance, emotional resilience, and the overall well-being of
+students globally. Our goal is to uncover and highlight patterns in
+student mental well-being, encouraging greater awareness and prompting
+discussions backed by data.
+
 ### Intended final products
 
 - A website with homepage for overview of our project, a page for

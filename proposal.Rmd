@@ -21,7 +21,7 @@ Students Mental Health: Exploring Factors Associated with Students' Mental Well-
 
 ### Motivation 
 
-Our project is propelled by an urgent need to unravel the complexities of student mental health—a critical factor that influences academic performance, emotional resilience, and the overall well-being of students globally. Our goal is to uncover and highlight patterns in student mental well-being, encouraging greater awareness and prompting discussions backed by data.
+The motivation behind this project comes from the high prevalence of mental health problems among students. According to the American College Health Association, in 2022, over three-quarters of college students (77%) experienced moderate to serious psychological distress. 35% of students were diagnosed with anxiety, while 27% had depression. Mental health problems can have a profound and wide-ranging impact on students, affecting their overall well-being, academic performance, and daily life. Our goal is to uncover and highlight patterns in student mental well-being, encouraging greater awareness and prompting discussions backed by data.
 
 
 ### Intended final products

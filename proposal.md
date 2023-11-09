@@ -51,6 +51,23 @@ backed by data.
 
 ### Planned Analyses / visualizations / coding challenges
 
+**Analyses:**
+
+- Hypothesis test : Difference in mean of stress_level/ depression_score
+  / anxiety_score among departments(ANOVA).
+- Linear model : Fit a linear model with Y = CGPA and X=stress_level/
+  depression_score/ anxiety_score.
+
+**Visualizations:**
+
+- EDA Plots: Create plots (flexdashboard optional) include at least
+  three distinct plot types (e.g. scatterplots, line plots, bar plots,
+  box plots, etc.) to analysis the relationship of
+  - (1)stress_level/ depression_score/ anxiety_score and Sleep_Quality,
+  - (2)stress_level/ depression_score/ anxiety_score and
+    Physical_Activity,
+  - (3)stress_level/ depression_score/ anxiety_score and Diet_Quality.
+
 **Challenges:**
 
 - Addressing Missing Data: Within our extensive dataset, a substantial

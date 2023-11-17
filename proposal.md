@@ -43,11 +43,11 @@ backed by data.
   which provides results of an anonymous survey with over 7000 college
   students’ reponses.
 
-- It records each student’s basic info (age, gender, department), CGPA,
-  mental health related scores (`Stress_Level`, `Depression_Score`,
-  `Depression_Score`), and other factors that may be associated with
-  their mental health (e.g. sleep quality, physical activity, family
-  history of mental health issues).
+- It records each student’s basic info (age, gender, department),
+  cumulative GPA (`CGPA`), mental health related scores (`Stress_Level`,
+  `Depression_Score`, `Depression_Score`), and other factors that may be
+  associated with their mental health (e.g. sleep quality, physical
+  activity, family history of mental health issues).
 
 ### Planned Analyses / visualizations / coding challenges
 

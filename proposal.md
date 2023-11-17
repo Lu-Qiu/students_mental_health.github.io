@@ -31,8 +31,8 @@ backed by data.
 ### Intended final products
 
 - A website with homepage for overview of our project, a page for
-  exploratory analyses, a page for statistical analyses, a page for
-  interactive dashboard by R-Shiny, and a page for project report.
+  exploratory analyses, a page for statistical analyses, and a page for
+  project report.
 - A detailed project report.
 - A two-minute narrated screencast illustrating our project.
 
@@ -78,8 +78,6 @@ backed by data.
   can lead to biased or inaccurate results.
 - Website Design: We plan to create a state-of-the-art website with
   advanced features and a visually appealing design.
-- R-Shiny Interactive Dashboard: We plan to use R-Shiny to build an
-  interactive platform.
 
 ### Planned timeline
 
@@ -87,5 +85,5 @@ backed by data.
 - 11.13~11.17 Project review meeting
 - 11.18~11.21 Finish exploratory analyses
 - 11.22~11.25 Finish statistical analyses
-- 11.26~11.30 Finish the Shiny dashboard and begin to write the report
+- 11.26~11.30 Begin to write the report
 - 12.1~12.9 Finish the report and screencast
